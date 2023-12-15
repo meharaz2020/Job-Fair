@@ -1,0 +1,10 @@
+dash
+plotly
+pandas
+openpyxl
+gspread
+oauth2client
+dash_bootstrap_components
+json
+graph_objs
+gunicorn
