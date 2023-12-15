@@ -5,5 +5,4 @@ openpyxl
 gspread
 oauth2client
 dash_bootstrap_components
-graph_objs
 gunicorn
